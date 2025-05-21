@@ -1,9 +1,5 @@
 # PLC Motor Simulator (C# Console Application)
 
-This is a simple PLC Motor Simulator built with C# as a console application. It simulates basic motor control using command-line input.
-
----
-
 ## 🛠 Features
 
 - Start the motor
